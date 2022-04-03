@@ -18,8 +18,13 @@
 ## Credits
 
 - My dog Toby is the first dog loaded on the page.
-- The random dogs are sourced from the dog.ceo api.
+- The random dogs are sourced from the dog.ceo api
+  for more info goto: https://dog.ceo/dog-api
 
 ## Github Link
 
 https://github.com/legit-jb/random-dog
+
+## Deployed Link
+
+https://legit-jb.github.io/random-dog
