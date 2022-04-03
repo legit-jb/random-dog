@@ -14,7 +14,7 @@ Step 2: Click the button.
 
 Step 3: Smile.
 
-![Screenshot of Random Dog!](assets/images/screenshot.png)
+  ![Screenshot of Random Dog!](assets/images/screenshot.png)
 
 ## Credits
 
